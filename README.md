@@ -6,6 +6,6 @@ Should not be used on production cluster.
 This script will delete everythin from your cluster helm release and cleanup all namespaces 
 execpt kube-system and kube-public
 # Usage
-chomd +x clustercleanup.sh
+chomd +x clustercleanup.sh </br>
 ./clustercleanup.sh
 
